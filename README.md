@@ -24,13 +24,18 @@ Jdk (for MARS to work)
 🕹️ Controls:
 
 W → Move Up
+
 S → Move Down
+
 A → Move Left
+
 D → Move Right
 
 
 ❌ Game Over Conditions:
+
 Colliding with the walls
+
 Eating itself
 
 
